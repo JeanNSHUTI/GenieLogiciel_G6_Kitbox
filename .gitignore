@@ -2,15 +2,12 @@
 # Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/Project/v15/.suo
-/Kitbox/.vs/Kitbox/v15/.suo
+/.vs/*
 /KitboxClassLibrary/.vs/*
 /Kitbox/.vs/*
 /KitboxClassLibrary/.vs/*
 /Kitbox/.vs/Kitbox/v14/*
 /KitboxClassLibrary/.vs/*
-/Kitbox/Kitbox/bin/Debug/Kitbox.vshost.exe.manifest
-/Kitbox/Kitbox
 
 ##################################################
 ##	User-generated	##
