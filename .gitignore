@@ -1,0 +1,63 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Project/v15/.suo
+/Kitbox/.vs/Kitbox/v15/.suo
+/KitboxClassLibrary/.vs/KitboxClassLibrary/v15/.suo
+/Kitbox/.vs/Kitbox/v14/.suo
+/KitboxClassLibrary/.vs/KitboxClassLibrary/v14/.suo
+/Kitbox/.vs/Kitbox/v14/.suo
+/KitboxClassLibrary/.vs/KitboxClassLibrary/v14/.suo
+/Kitbox/Kitbox/bin/Debug/Kitbox.vshost.exe.manifest
+/Kitbox/Kitbox
+
+
+_minted-main
+*.aux
+*.fdb*
+*.log
+*.fls
+*.gz
+
+
+# Autosave files
+*~
+
+# build
+[Oo]bj/
+[Bb]in/
+packages/
+TestResults/
+
+# globs
+Makefile.in
+*.DS_Store
+*.sln.cache
+*.suo
+*.cache
+*.pidb
+*.userprefs
+*.usertasks
+config.log
+config.make
+config.status
+aclocal.m4
+install-sh
+autom4te.cache/
+*.user
+*.tar.gz
+tarballs/
+test-results/
+Thumbs.db
+
+# Mac bundle stuff
+*.dmg
+*.app
+
+# resharper
+*_Resharper.*
+*.Resharper
+
+# dotCover
+*.dotCover

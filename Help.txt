@@ -1,0 +1,13 @@
+Welcome to the Help Menu 
+
+To add a new cabinet, please click "Add cabinet" and select the dimension and color of the cabinet. Please fill up every gap.
+
+To delete a cabinet, please select an existing cabinet in your order, and click "delete".
+
+To edit a cabinet, please select an existing cabinet first, then click "edit".
+
+To finalise an order, please click "Finished".
+
+Enter your customer details to sign up/in as a Kitbox client. Confirm your order, wait for your order ticket to be printed and then continue to cashier.
+
+Please feel free to contact anyone of our storkeepers for any other information pertaining your order.
