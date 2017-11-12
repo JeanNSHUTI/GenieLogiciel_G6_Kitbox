@@ -3,9 +3,14 @@
 IT application allowing users to customize a cabinet kit and place their order.
 Scenario: Order terminal at a furniture retailer
 
-Team Members
+Team Members:
+
 StevenGaro
+
 jeanNSHUTI
+
 usheraac
+
 Numaj
+
 johannzschau
